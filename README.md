@@ -1,2 +1,3 @@
 # HELLO-WORLD
-Printing the HELLO WORLD in C language
+Printing the HELLO WORLD in C language 
+making change
